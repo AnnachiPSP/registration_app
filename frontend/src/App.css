@@ -1,0 +1,117 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+/* .form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.form label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.form input[type="text"],
+.form input[type="email"],
+.form input[type="password"] {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form input[type="text"]:hover,
+.form input[type="email"]:hover,
+.form input[type="password"]:hover {
+  border-color: #888;
+} */
+
+.form-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+  background-color: #45a049;
+}
+
+.form-message {
+  margin-top: 10px;
+  color: #ff0000;
+}
+
+.profile-details {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.profile-details p {
+  margin-bottom: 15px;
+}
+
+.style-form {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.style-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.style-form input[type="text"],
+.style-form input[type="email"],
+.style-form input[type="password"] {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.style-form input[type="text"]:hover,
+.style-form input[type="email"]:hover,
+.style-form input[type="password"]:hover {
+  border-color: #888;
+}
+
+.style-form button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.style-form button:hover {
+  background-color: #45a049;
+}
+
+.style-form-message {
+  margin-top: 10px;
+  color: #551c65;
+}
